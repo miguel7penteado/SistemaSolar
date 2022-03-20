@@ -52,10 +52,10 @@ Pronto? Vamos começar!
 * O layout da janela já está alterado para `Scripting` para você (na barra de menu superior, ao lado de `File`, `Render`, `Window` e `Help`).
 	Vá para a área *Text Editor*, (área principal esquerda) e carregue um script selecionando `Text`->`Open Text Block` e escolhendo `create_planet.py`.
 
-* Selecione `Texto`->`Executar Script` para executar o script. Uma esfera azul chamada
-    `Planet-Earth` deve aparecer na sua *vista 3D*.
+* Select `Text`->`Run Script` to execute the script. A blue sphere called 
+    `Planet-Earth` should appear in your *3D view*.
 
-Se isso funcionar, você pode ir em frente, expandir o script e experimentar as seguintes tarefas. Se não funcionou, verifique a saída no console a partir do qual você iniciou o Blender para mensagens de erro.
+If this works, then you can go ahead, expand the script and experiment with the following tasks. If it didn't work, check the output in the console from which you started Blender for error messages. 
 
 
 ## Experimenting
