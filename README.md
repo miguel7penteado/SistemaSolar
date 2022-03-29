@@ -327,3 +327,5 @@ If you made it this far: thanks for staying with me and congratulations! I hope 
 
 Interested in my final version of the Python script, which includes the steps explained in this tutorial? I've uploaded it here: [create_planet_final.py](http://www.kristin-riebe.de/materials/create_planet_final.py). It doesn't contain the 'Further improvements' steps, however, since so far I didn't have enough time to include them all. If you manage to finish these, I would appreciate it if you share *your* final version! :-)
 
+# Referência:
+![https://nafergo.github.io/manual-livre-blender/intro_materiais.html](https://nafergo.github.io/manual-livre-blender/intro_materiais.html)
